@@ -1,6 +1,3 @@
-# Zomato-Data-analysis
-This is a personal project for learning basics of Data Analysis, by studying a simplified dataset provided by 'The iScale'
-
 ## Introduction
 - The project is built to provide data-driven insights to Zomato, which is a leading Indian multinational restaurant aggregator and food delivery company. Zomato provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in more than 1,000 Indian cities and towns, as of 2022–23.
 
